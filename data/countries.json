@@ -1,0 +1,3490 @@
+[
+  {
+    "name": "Anguilla",
+    "code": "AI",
+    "dial_code": "+1264",
+    "flags": {
+      "local": "flags/ai.svg",
+      "remote": "https://flagcdn.com/ai.svg"
+    },
+    "currency_details": {
+      "name": "Eastern Caribbean dollar",
+      "code": "XCD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Guatemala",
+    "code": "GT",
+    "dial_code": "+502",
+    "flags": {
+      "local": "flags/gt.svg",
+      "remote": "https://flagcdn.com/gt.svg"
+    },
+    "currency_details": {
+      "name": "Guatemalan quetzal",
+      "code": "GTQ",
+      "symbol": "Q"
+    }
+  },
+  {
+    "name": "Gambia",
+    "code": "GM",
+    "dial_code": "+220",
+    "flags": {
+      "local": "flags/gm.svg",
+      "remote": "https://flagcdn.com/gm.svg"
+    },
+    "currency_details": {
+      "name": "dalasi",
+      "code": "GMD",
+      "symbol": "D"
+    }
+  },
+  {
+    "name": "Mexico",
+    "code": "MX",
+    "dial_code": "+52",
+    "flags": {
+      "local": "flags/mx.svg",
+      "remote": "https://flagcdn.com/mx.svg"
+    },
+    "currency_details": {
+      "name": "Mexican peso",
+      "code": "MXN",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Malawi",
+    "code": "MW",
+    "dial_code": "+265",
+    "flags": {
+      "local": "flags/mw.svg",
+      "remote": "https://flagcdn.com/mw.svg"
+    },
+    "currency_details": {
+      "name": "Malawian kwacha",
+      "code": "MWK",
+      "symbol": "MK"
+    }
+  },
+  {
+    "name": "Pitcairn Islands",
+    "code": "PN",
+    "dial_code": "+64",
+    "flags": {
+      "local": "flags/pn.svg",
+      "remote": "https://flagcdn.com/pn.svg"
+    },
+    "currency_details": {
+      "name": "New Zealand dollar",
+      "code": "NZD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "dial_code": "+54",
+    "flags": {
+      "local": "flags/ar.svg",
+      "remote": "https://flagcdn.com/ar.svg"
+    },
+    "currency_details": {
+      "name": "Argentine peso",
+      "code": "ARS",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Guam",
+    "code": "GU",
+    "dial_code": "+1671",
+    "flags": {
+      "local": "flags/gu.svg",
+      "remote": "https://flagcdn.com/gu.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "code": "BG",
+    "dial_code": "+359",
+    "flags": {
+      "local": "flags/bg.svg",
+      "remote": "https://flagcdn.com/bg.svg"
+    },
+    "currency_details": {
+      "name": "Bulgarian lev",
+      "code": "BGN",
+      "symbol": "лв"
+    }
+  },
+  {
+    "name": "Dominica",
+    "code": "DM",
+    "dial_code": "+1767",
+    "flags": {
+      "local": "flags/dm.svg",
+      "remote": "https://flagcdn.com/dm.svg"
+    },
+    "currency_details": {
+      "name": "Eastern Caribbean dollar",
+      "code": "XCD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "dial_code": "+44",
+    "flags": {
+      "local": "flags/gb.svg",
+      "remote": "https://flagcdn.com/gb.svg"
+    },
+    "currency_details": {
+      "name": "British pound",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Micronesia",
+    "code": "FM",
+    "dial_code": "+691",
+    "flags": {
+      "local": "flags/fm.svg",
+      "remote": "https://flagcdn.com/fm.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Palestine",
+    "code": "PS",
+    "dial_code": "+970",
+    "flags": {
+      "local": "flags/ps.svg",
+      "remote": "https://flagcdn.com/ps.svg"
+    },
+    "currency_details": {
+      "name": "Egyptian pound",
+      "code": "EGP",
+      "symbol": "E£"
+    }
+  },
+  {
+    "name": "Curaçao",
+    "code": "CW",
+    "dial_code": "+599",
+    "flags": {
+      "local": "flags/cw.svg",
+      "remote": "https://flagcdn.com/cw.svg"
+    },
+    "currency_details": {
+      "name": "Netherlands Antillean guilder",
+      "code": "ANG",
+      "symbol": "ƒ"
+    }
+  },
+  {
+    "name": "Rwanda",
+    "code": "RW",
+    "dial_code": "+250",
+    "flags": {
+      "local": "flags/rw.svg",
+      "remote": "https://flagcdn.com/rw.svg"
+    },
+    "currency_details": {
+      "name": "Rwandan franc",
+      "code": "RWF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "code": "HK",
+    "dial_code": "+852",
+    "flags": {
+      "local": "flags/hk.svg",
+      "remote": "https://flagcdn.com/hk.svg"
+    },
+    "currency_details": {
+      "name": "Hong Kong dollar",
+      "code": "HKD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "dial_code": "+998",
+    "flags": {
+      "local": "flags/uz.svg",
+      "remote": "https://flagcdn.com/uz.svg"
+    },
+    "currency_details": {
+      "name": "Uzbekistani soʻm",
+      "code": "UZS",
+      "symbol": "so'm"
+    }
+  },
+  {
+    "name": "China",
+    "code": "CN",
+    "dial_code": "+86",
+    "flags": {
+      "local": "flags/cn.svg",
+      "remote": "https://flagcdn.com/cn.svg"
+    },
+    "currency_details": {
+      "name": "Chinese yuan",
+      "code": "CNY",
+      "symbol": "¥"
+    }
+  },
+  {
+    "name": "Cyprus",
+    "code": "CY",
+    "dial_code": "+357",
+    "flags": {
+      "local": "flags/cy.svg",
+      "remote": "https://flagcdn.com/cy.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Aruba",
+    "code": "AW",
+    "dial_code": "+297",
+    "flags": {
+      "local": "flags/aw.svg",
+      "remote": "https://flagcdn.com/aw.svg"
+    },
+    "currency_details": {
+      "name": "Aruban florin",
+      "code": "AWG",
+      "symbol": "ƒ"
+    }
+  },
+  {
+    "name": "Réunion",
+    "code": "RE",
+    "dial_code": "+262",
+    "flags": {
+      "local": "flags/re.svg",
+      "remote": "https://flagcdn.com/re.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "South Korea",
+    "code": "KR",
+    "dial_code": "+82",
+    "flags": {
+      "local": "flags/kr.svg",
+      "remote": "https://flagcdn.com/kr.svg"
+    },
+    "currency_details": {
+      "name": "South Korean won",
+      "code": "KRW",
+      "symbol": "₩"
+    }
+  },
+  {
+    "name": "Antarctica",
+    "code": "AQ",
+    "dial_code": "",
+    "flags": {
+      "local": "flags/aq.svg",
+      "remote": "https://flagcdn.com/aq.svg"
+    },
+    "currency_details": null
+  },
+  {
+    "name": "Somalia",
+    "code": "SO",
+    "dial_code": "+252",
+    "flags": {
+      "local": "flags/so.svg",
+      "remote": "https://flagcdn.com/so.svg"
+    },
+    "currency_details": {
+      "name": "Somali shilling",
+      "code": "SOS",
+      "symbol": "Sh"
+    }
+  },
+  {
+    "name": "Lebanon",
+    "code": "LB",
+    "dial_code": "+961",
+    "flags": {
+      "local": "flags/lb.svg",
+      "remote": "https://flagcdn.com/lb.svg"
+    },
+    "currency_details": {
+      "name": "Lebanese pound",
+      "code": "LBP",
+      "symbol": "ل.ل"
+    }
+  },
+  {
+    "name": "Guinea",
+    "code": "GN",
+    "dial_code": "+224",
+    "flags": {
+      "local": "flags/gn.svg",
+      "remote": "https://flagcdn.com/gn.svg"
+    },
+    "currency_details": {
+      "name": "Guinean franc",
+      "code": "GNF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "code": "TJ",
+    "dial_code": "+992",
+    "flags": {
+      "local": "flags/tj.svg",
+      "remote": "https://flagcdn.com/tj.svg"
+    },
+    "currency_details": {
+      "name": "Tajikistani somoni",
+      "code": "TJS",
+      "symbol": "ЅМ"
+    }
+  },
+  {
+    "name": "Malaysia",
+    "code": "MY",
+    "dial_code": "+60",
+    "flags": {
+      "local": "flags/my.svg",
+      "remote": "https://flagcdn.com/my.svg"
+    },
+    "currency_details": {
+      "name": "Malaysian ringgit",
+      "code": "MYR",
+      "symbol": "RM"
+    }
+  },
+  {
+    "name": "North Korea",
+    "code": "KP",
+    "dial_code": "+850",
+    "flags": {
+      "local": "flags/kp.svg",
+      "remote": "https://flagcdn.com/kp.svg"
+    },
+    "currency_details": {
+      "name": "North Korean won",
+      "code": "KPW",
+      "symbol": "₩"
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "SL",
+    "dial_code": "+232",
+    "flags": {
+      "local": "flags/sl.svg",
+      "remote": "https://flagcdn.com/sl.svg"
+    },
+    "currency_details": {
+      "name": "Leone",
+      "code": "SLE",
+      "symbol": "Le"
+    }
+  },
+  {
+    "name": "Benin",
+    "code": "BJ",
+    "dial_code": "+229",
+    "flags": {
+      "local": "flags/bj.svg",
+      "remote": "https://flagcdn.com/bj.svg"
+    },
+    "currency_details": {
+      "name": "West African CFA franc",
+      "code": "XOF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "dial_code": "+39",
+    "flags": {
+      "local": "flags/it.svg",
+      "remote": "https://flagcdn.com/it.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "TT",
+    "dial_code": "+1868",
+    "flags": {
+      "local": "flags/tt.svg",
+      "remote": "https://flagcdn.com/tt.svg"
+    },
+    "currency_details": {
+      "name": "Trinidad and Tobago dollar",
+      "code": "TTD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "dial_code": "+966",
+    "flags": {
+      "local": "flags/sa.svg",
+      "remote": "https://flagcdn.com/sa.svg"
+    },
+    "currency_details": {
+      "name": "Saudi riyal",
+      "code": "SAR",
+      "symbol": "ر.س"
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "code": "CR",
+    "dial_code": "+506",
+    "flags": {
+      "local": "flags/cr.svg",
+      "remote": "https://flagcdn.com/cr.svg"
+    },
+    "currency_details": {
+      "name": "Costa Rican colón",
+      "code": "CRC",
+      "symbol": "₡"
+    }
+  },
+  {
+    "name": "Serbia",
+    "code": "RS",
+    "dial_code": "+381",
+    "flags": {
+      "local": "flags/rs.svg",
+      "remote": "https://flagcdn.com/rs.svg"
+    },
+    "currency_details": {
+      "name": "Serbian dinar",
+      "code": "RSD",
+      "symbol": "дин."
+    }
+  },
+  {
+    "name": "Tokelau",
+    "code": "TK",
+    "dial_code": "+690",
+    "flags": {
+      "local": "flags/tk.svg",
+      "remote": "https://flagcdn.com/tk.svg"
+    },
+    "currency_details": {
+      "name": "New Zealand dollar",
+      "code": "NZD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Mongolia",
+    "code": "MN",
+    "dial_code": "+976",
+    "flags": {
+      "local": "flags/mn.svg",
+      "remote": "https://flagcdn.com/mn.svg"
+    },
+    "currency_details": {
+      "name": "Mongolian tögrög",
+      "code": "MNT",
+      "symbol": "₮"
+    }
+  },
+  {
+    "name": "Brunei",
+    "code": "BN",
+    "dial_code": "+673",
+    "flags": {
+      "local": "flags/bn.svg",
+      "remote": "https://flagcdn.com/bn.svg"
+    },
+    "currency_details": {
+      "name": "Brunei dollar",
+      "code": "BND",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Hungary",
+    "code": "HU",
+    "dial_code": "+36",
+    "flags": {
+      "local": "flags/hu.svg",
+      "remote": "https://flagcdn.com/hu.svg"
+    },
+    "currency_details": {
+      "name": "Hungarian forint",
+      "code": "HUF",
+      "symbol": "Ft"
+    }
+  },
+  {
+    "name": "Mozambique",
+    "code": "MZ",
+    "dial_code": "+258",
+    "flags": {
+      "local": "flags/mz.svg",
+      "remote": "https://flagcdn.com/mz.svg"
+    },
+    "currency_details": {
+      "name": "Mozambican metical",
+      "code": "MZN",
+      "symbol": "MT"
+    }
+  },
+  {
+    "name": "Kiribati",
+    "code": "KI",
+    "dial_code": "+686",
+    "flags": {
+      "local": "flags/ki.svg",
+      "remote": "https://flagcdn.com/ki.svg"
+    },
+    "currency_details": {
+      "name": "Australian dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Haiti",
+    "code": "HT",
+    "dial_code": "+509",
+    "flags": {
+      "local": "flags/ht.svg",
+      "remote": "https://flagcdn.com/ht.svg"
+    },
+    "currency_details": {
+      "name": "Haitian gourde",
+      "code": "HTG",
+      "symbol": "G"
+    }
+  },
+  {
+    "name": "Cambodia",
+    "code": "KH",
+    "dial_code": "+855",
+    "flags": {
+      "local": "flags/kh.svg",
+      "remote": "https://flagcdn.com/kh.svg"
+    },
+    "currency_details": {
+      "name": "Cambodian riel",
+      "code": "KHR",
+      "symbol": "៛"
+    }
+  },
+  {
+    "name": "Egypt",
+    "code": "EG",
+    "dial_code": "+20",
+    "flags": {
+      "local": "flags/eg.svg",
+      "remote": "https://flagcdn.com/eg.svg"
+    },
+    "currency_details": {
+      "name": "Egyptian pound",
+      "code": "EGP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "TM",
+    "dial_code": "+993",
+    "flags": {
+      "local": "flags/tm.svg",
+      "remote": "https://flagcdn.com/tm.svg"
+    },
+    "currency_details": {
+      "name": "Turkmenistan manat",
+      "code": "TMT",
+      "symbol": "m"
+    }
+  },
+  {
+    "name": "Oman",
+    "code": "OM",
+    "dial_code": "+968",
+    "flags": {
+      "local": "flags/om.svg",
+      "remote": "https://flagcdn.com/om.svg"
+    },
+    "currency_details": {
+      "name": "Omani rial",
+      "code": "OMR",
+      "symbol": "ر.ع."
+    }
+  },
+  {
+    "name": "Jamaica",
+    "code": "JM",
+    "dial_code": "+1876",
+    "flags": {
+      "local": "flags/jm.svg",
+      "remote": "https://flagcdn.com/jm.svg"
+    },
+    "currency_details": {
+      "name": "Jamaican dollar",
+      "code": "JMD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "dial_code": "+994",
+    "flags": {
+      "local": "flags/az.svg",
+      "remote": "https://flagcdn.com/az.svg"
+    },
+    "currency_details": {
+      "name": "Azerbaijani manat",
+      "code": "AZN",
+      "symbol": "₼"
+    }
+  },
+  {
+    "name": "Slovakia",
+    "code": "SK",
+    "dial_code": "+421",
+    "flags": {
+      "local": "flags/sk.svg",
+      "remote": "https://flagcdn.com/sk.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Belarus",
+    "code": "BY",
+    "dial_code": "+375",
+    "flags": {
+      "local": "flags/by.svg",
+      "remote": "https://flagcdn.com/by.svg"
+    },
+    "currency_details": {
+      "name": "Belarusian ruble",
+      "code": "BYN",
+      "symbol": "Br"
+    }
+  },
+  {
+    "name": "Vietnam",
+    "code": "VN",
+    "dial_code": "+84",
+    "flags": {
+      "local": "flags/vn.svg",
+      "remote": "https://flagcdn.com/vn.svg"
+    },
+    "currency_details": {
+      "name": "Vietnamese đồng",
+      "code": "VND",
+      "symbol": "₫"
+    }
+  },
+  {
+    "name": "United States Virgin Islands",
+    "code": "VI",
+    "dial_code": "+1340",
+    "flags": {
+      "local": "flags/vi.svg",
+      "remote": "https://flagcdn.com/vi.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "code": "GI",
+    "dial_code": "+350",
+    "flags": {
+      "local": "flags/gi.svg",
+      "remote": "https://flagcdn.com/gi.svg"
+    },
+    "currency_details": {
+      "name": "Gibraltar pound",
+      "code": "GIP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Sint Maarten",
+    "code": "SX",
+    "dial_code": "+1721",
+    "flags": {
+      "local": "flags/sx.svg",
+      "remote": "https://flagcdn.com/sx.svg"
+    },
+    "currency_details": {
+      "name": "Netherlands Antillean guilder",
+      "code": "ANG",
+      "symbol": "ƒ"
+    }
+  },
+  {
+    "name": "Åland Islands",
+    "code": "AX",
+    "dial_code": "+35818",
+    "flags": {
+      "local": "flags/ax.svg",
+      "remote": "https://flagcdn.com/ax.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Syria",
+    "code": "SY",
+    "dial_code": "+963",
+    "flags": {
+      "local": "flags/sy.svg",
+      "remote": "https://flagcdn.com/sy.svg"
+    },
+    "currency_details": {
+      "name": "Syrian pound",
+      "code": "SYP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Martinique",
+    "code": "MQ",
+    "dial_code": "+596",
+    "flags": {
+      "local": "flags/mq.svg",
+      "remote": "https://flagcdn.com/mq.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Greenland",
+    "code": "GL",
+    "dial_code": "+299",
+    "flags": {
+      "local": "flags/gl.svg",
+      "remote": "https://flagcdn.com/gl.svg"
+    },
+    "currency_details": {
+      "name": "krone",
+      "code": "DKK",
+      "symbol": "kr."
+    }
+  },
+  {
+    "name": "Honduras",
+    "code": "HN",
+    "dial_code": "+504",
+    "flags": {
+      "local": "flags/hn.svg",
+      "remote": "https://flagcdn.com/hn.svg"
+    },
+    "currency_details": {
+      "name": "Honduran lempira",
+      "code": "HNL",
+      "symbol": "L"
+    }
+  },
+  {
+    "name": "Tunisia",
+    "code": "TN",
+    "dial_code": "+216",
+    "flags": {
+      "local": "flags/tn.svg",
+      "remote": "https://flagcdn.com/tn.svg"
+    },
+    "currency_details": {
+      "name": "Tunisian dinar",
+      "code": "TND",
+      "symbol": "د.ت"
+    }
+  },
+  {
+    "name": "Comoros",
+    "code": "KM",
+    "dial_code": "+269",
+    "flags": {
+      "local": "flags/km.svg",
+      "remote": "https://flagcdn.com/km.svg"
+    },
+    "currency_details": {
+      "name": "Comorian franc",
+      "code": "KMF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Slovenia",
+    "code": "SI",
+    "dial_code": "+386",
+    "flags": {
+      "local": "flags/si.svg",
+      "remote": "https://flagcdn.com/si.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Switzerland",
+    "code": "CH",
+    "dial_code": "+41",
+    "flags": {
+      "local": "flags/ch.svg",
+      "remote": "https://flagcdn.com/ch.svg"
+    },
+    "currency_details": {
+      "name": "Swiss franc",
+      "code": "CHF",
+      "symbol": "Fr."
+    }
+  },
+  {
+    "name": "Guernsey",
+    "code": "GG",
+    "dial_code": "+44",
+    "flags": {
+      "local": "flags/gg.svg",
+      "remote": "https://flagcdn.com/gg.svg"
+    },
+    "currency_details": {
+      "name": "British pound",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Myanmar",
+    "code": "MM",
+    "dial_code": "+95",
+    "flags": {
+      "local": "flags/mm.svg",
+      "remote": "https://flagcdn.com/mm.svg"
+    },
+    "currency_details": {
+      "name": "Burmese kyat",
+      "code": "MMK",
+      "symbol": "Ks"
+    }
+  },
+  {
+    "name": "Paraguay",
+    "code": "PY",
+    "dial_code": "+595",
+    "flags": {
+      "local": "flags/py.svg",
+      "remote": "https://flagcdn.com/py.svg"
+    },
+    "currency_details": {
+      "name": "Paraguayan guaraní",
+      "code": "PYG",
+      "symbol": "₲"
+    }
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "code": "BQ",
+    "dial_code": "+599",
+    "flags": {
+      "local": "flags/bq.svg",
+      "remote": "https://flagcdn.com/bq.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Barbados",
+    "code": "BB",
+    "dial_code": "+1246",
+    "flags": {
+      "local": "flags/bb.svg",
+      "remote": "https://flagcdn.com/bb.svg"
+    },
+    "currency_details": {
+      "name": "Barbadian dollar",
+      "code": "BBD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Macau",
+    "code": "MO",
+    "dial_code": "+853",
+    "flags": {
+      "local": "flags/mo.svg",
+      "remote": "https://flagcdn.com/mo.svg"
+    },
+    "currency_details": {
+      "name": "Macanese pataca",
+      "code": "MOP",
+      "symbol": "P"
+    }
+  },
+  {
+    "name": "Jordan",
+    "code": "JO",
+    "dial_code": "+962",
+    "flags": {
+      "local": "flags/jo.svg",
+      "remote": "https://flagcdn.com/jo.svg"
+    },
+    "currency_details": {
+      "name": "Jordanian dinar",
+      "code": "JOD",
+      "symbol": "د.ا"
+    }
+  },
+  {
+    "name": "Laos",
+    "code": "LA",
+    "dial_code": "+856",
+    "flags": {
+      "local": "flags/la.svg",
+      "remote": "https://flagcdn.com/la.svg"
+    },
+    "currency_details": {
+      "name": "Lao kip",
+      "code": "LAK",
+      "symbol": "₭"
+    }
+  },
+  {
+    "name": "Togo",
+    "code": "TG",
+    "dial_code": "+228",
+    "flags": {
+      "local": "flags/tg.svg",
+      "remote": "https://flagcdn.com/tg.svg"
+    },
+    "currency_details": {
+      "name": "West African CFA franc",
+      "code": "XOF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Morocco",
+    "code": "MA",
+    "dial_code": "+212",
+    "flags": {
+      "local": "flags/ma.svg",
+      "remote": "https://flagcdn.com/ma.svg"
+    },
+    "currency_details": {
+      "name": "Moroccan dirham",
+      "code": "MAD",
+      "symbol": "د.م."
+    }
+  },
+  {
+    "name": "Puerto Rico",
+    "code": "PR",
+    "dial_code": "+1787",
+    "flags": {
+      "local": "flags/pr.svg",
+      "remote": "https://flagcdn.com/pr.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "French Guiana",
+    "code": "GF",
+    "dial_code": "+594",
+    "flags": {
+      "local": "flags/gf.svg",
+      "remote": "https://flagcdn.com/gf.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "code": "PM",
+    "dial_code": "+508",
+    "flags": {
+      "local": "flags/pm.svg",
+      "remote": "https://flagcdn.com/pm.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Saint Martin",
+    "code": "MF",
+    "dial_code": "+590",
+    "flags": {
+      "local": "flags/mf.svg",
+      "remote": "https://flagcdn.com/mf.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Estonia",
+    "code": "EE",
+    "dial_code": "+372",
+    "flags": {
+      "local": "flags/ee.svg",
+      "remote": "https://flagcdn.com/ee.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Indonesia",
+    "code": "ID",
+    "dial_code": "+62",
+    "flags": {
+      "local": "flags/id.svg",
+      "remote": "https://flagcdn.com/id.svg"
+    },
+    "currency_details": {
+      "name": "Indonesian rupiah",
+      "code": "IDR",
+      "symbol": "Rp"
+    }
+  },
+  {
+    "name": "Seychelles",
+    "code": "SC",
+    "dial_code": "+248",
+    "flags": {
+      "local": "flags/sc.svg",
+      "remote": "https://flagcdn.com/sc.svg"
+    },
+    "currency_details": {
+      "name": "Seychellois rupee",
+      "code": "SCR",
+      "symbol": "₨"
+    }
+  },
+  {
+    "name": "Mali",
+    "code": "ML",
+    "dial_code": "+223",
+    "flags": {
+      "local": "flags/ml.svg",
+      "remote": "https://flagcdn.com/ml.svg"
+    },
+    "currency_details": {
+      "name": "West African CFA franc",
+      "code": "XOF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "TL",
+    "dial_code": "+670",
+    "flags": {
+      "local": "flags/tl.svg",
+      "remote": "https://flagcdn.com/tl.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "dial_code": "+55",
+    "flags": {
+      "local": "flags/br.svg",
+      "remote": "https://flagcdn.com/br.svg"
+    },
+    "currency_details": {
+      "name": "Brazilian real",
+      "code": "BRL",
+      "symbol": "R$"
+    }
+  },
+  {
+    "name": "Ghana",
+    "code": "GH",
+    "dial_code": "+233",
+    "flags": {
+      "local": "flags/gh.svg",
+      "remote": "https://flagcdn.com/gh.svg"
+    },
+    "currency_details": {
+      "name": "Ghanaian cedi",
+      "code": "GHS",
+      "symbol": "₵"
+    }
+  },
+  {
+    "name": "Kenya",
+    "code": "KE",
+    "dial_code": "+254",
+    "flags": {
+      "local": "flags/ke.svg",
+      "remote": "https://flagcdn.com/ke.svg"
+    },
+    "currency_details": {
+      "name": "Kenyan shilling",
+      "code": "KES",
+      "symbol": "Sh"
+    }
+  },
+  {
+    "name": "Iceland",
+    "code": "IS",
+    "dial_code": "+354",
+    "flags": {
+      "local": "flags/is.svg",
+      "remote": "https://flagcdn.com/is.svg"
+    },
+    "currency_details": {
+      "name": "Icelandic króna",
+      "code": "ISK",
+      "symbol": "kr"
+    }
+  },
+  {
+    "name": "Madagascar",
+    "code": "MG",
+    "dial_code": "+261",
+    "flags": {
+      "local": "flags/mg.svg",
+      "remote": "https://flagcdn.com/mg.svg"
+    },
+    "currency_details": {
+      "name": "Malagasy ariary",
+      "code": "MGA",
+      "symbol": "Ar"
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "code": "BD",
+    "dial_code": "+880",
+    "flags": {
+      "local": "flags/bd.svg",
+      "remote": "https://flagcdn.com/bd.svg"
+    },
+    "currency_details": {
+      "name": "Bangladeshi taka",
+      "code": "BDT",
+      "symbol": "৳"
+    }
+  },
+  {
+    "name": "DR Congo",
+    "code": "CD",
+    "dial_code": "+243",
+    "flags": {
+      "local": "flags/cd.svg",
+      "remote": "https://flagcdn.com/cd.svg"
+    },
+    "currency_details": {
+      "name": "Congolese franc",
+      "code": "CDF",
+      "symbol": "FC"
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "ZW",
+    "dial_code": "+263",
+    "flags": {
+      "local": "flags/zw.svg",
+      "remote": "https://flagcdn.com/zw.svg"
+    },
+    "currency_details": {
+      "name": "Zimbabwean dollar",
+      "code": "ZWL",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "French Polynesia",
+    "code": "PF",
+    "dial_code": "+689",
+    "flags": {
+      "local": "flags/pf.svg",
+      "remote": "https://flagcdn.com/pf.svg"
+    },
+    "currency_details": {
+      "name": "CFP franc",
+      "code": "XPF",
+      "symbol": "₣"
+    }
+  },
+  {
+    "name": "Turkey",
+    "code": "TR",
+    "dial_code": "+90",
+    "flags": {
+      "local": "flags/tr.svg",
+      "remote": "https://flagcdn.com/tr.svg"
+    },
+    "currency_details": {
+      "name": "Turkish lira",
+      "code": "TRY",
+      "symbol": "₺"
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "code": "CV",
+    "dial_code": "+238",
+    "flags": {
+      "local": "flags/cv.svg",
+      "remote": "https://flagcdn.com/cv.svg"
+    },
+    "currency_details": {
+      "name": "Cape Verdean escudo",
+      "code": "CVE",
+      "symbol": "Esc"
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "DO",
+    "dial_code": "+1809",
+    "flags": {
+      "local": "flags/do.svg",
+      "remote": "https://flagcdn.com/do.svg"
+    },
+    "currency_details": {
+      "name": "Dominican peso",
+      "code": "DOP",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Bahamas",
+    "code": "BS",
+    "dial_code": "+1242",
+    "flags": {
+      "local": "flags/bs.svg",
+      "remote": "https://flagcdn.com/bs.svg"
+    },
+    "currency_details": {
+      "name": "Bahamian dollar",
+      "code": "BSD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "dial_code": "+49",
+    "flags": {
+      "local": "flags/de.svg",
+      "remote": "https://flagcdn.com/de.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Suriname",
+    "code": "SR",
+    "dial_code": "+597",
+    "flags": {
+      "local": "flags/sr.svg",
+      "remote": "https://flagcdn.com/sr.svg"
+    },
+    "currency_details": {
+      "name": "Surinamese dollar",
+      "code": "SRD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Tonga",
+    "code": "TO",
+    "dial_code": "+676",
+    "flags": {
+      "local": "flags/to.svg",
+      "remote": "https://flagcdn.com/to.svg"
+    },
+    "currency_details": {
+      "name": "Tongan paʻanga",
+      "code": "TOP",
+      "symbol": "T$"
+    }
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "code": "IO",
+    "dial_code": "+246",
+    "flags": {
+      "local": "flags/io.svg",
+      "remote": "https://flagcdn.com/io.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "LC",
+    "dial_code": "+1758",
+    "flags": {
+      "local": "flags/lc.svg",
+      "remote": "https://flagcdn.com/lc.svg"
+    },
+    "currency_details": {
+      "name": "Eastern Caribbean dollar",
+      "code": "XCD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Ireland",
+    "code": "IE",
+    "dial_code": "+353",
+    "flags": {
+      "local": "flags/ie.svg",
+      "remote": "https://flagcdn.com/ie.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Vatican City",
+    "code": "VA",
+    "dial_code": "+3906698",
+    "flags": {
+      "local": "flags/va.svg",
+      "remote": "https://flagcdn.com/va.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Colombia",
+    "code": "CO",
+    "dial_code": "+57",
+    "flags": {
+      "local": "flags/co.svg",
+      "remote": "https://flagcdn.com/co.svg"
+    },
+    "currency_details": {
+      "name": "Colombian peso",
+      "code": "COP",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Portugal",
+    "code": "PT",
+    "dial_code": "+351",
+    "flags": {
+      "local": "flags/pt.svg",
+      "remote": "https://flagcdn.com/pt.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "FO",
+    "dial_code": "+298",
+    "flags": {
+      "local": "flags/fo.svg",
+      "remote": "https://flagcdn.com/fo.svg"
+    },
+    "currency_details": {
+      "name": "Danish krone",
+      "code": "DKK",
+      "symbol": "kr"
+    }
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "code": "ST",
+    "dial_code": "+239",
+    "flags": {
+      "local": "flags/st.svg",
+      "remote": "https://flagcdn.com/st.svg"
+    },
+    "currency_details": {
+      "name": "São Tomé and Príncipe dobra",
+      "code": "STN",
+      "symbol": "Db"
+    }
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "code": "MP",
+    "dial_code": "+1670",
+    "flags": {
+      "local": "flags/mp.svg",
+      "remote": "https://flagcdn.com/mp.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Jersey",
+    "code": "JE",
+    "dial_code": "+44",
+    "flags": {
+      "local": "flags/je.svg",
+      "remote": "https://flagcdn.com/je.svg"
+    },
+    "currency_details": {
+      "name": "British pound",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Mayotte",
+    "code": "YT",
+    "dial_code": "+262",
+    "flags": {
+      "local": "flags/yt.svg",
+      "remote": "https://flagcdn.com/yt.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Yemen",
+    "code": "YE",
+    "dial_code": "+967",
+    "flags": {
+      "local": "flags/ye.svg",
+      "remote": "https://flagcdn.com/ye.svg"
+    },
+    "currency_details": {
+      "name": "Yemeni rial",
+      "code": "YER",
+      "symbol": "﷼"
+    }
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "dial_code": "+234",
+    "flags": {
+      "local": "flags/ng.svg",
+      "remote": "https://flagcdn.com/ng.svg"
+    },
+    "currency_details": {
+      "name": "Nigerian naira",
+      "code": "NGN",
+      "symbol": "₦"
+    }
+  },
+  {
+    "name": "Afghanistan",
+    "code": "AF",
+    "dial_code": "+93",
+    "flags": {
+      "local": "flags/af.svg",
+      "remote": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
+    },
+    "currency_details": {
+      "name": "Afghan afghani",
+      "code": "AFN",
+      "symbol": "؋"
+    }
+  },
+  {
+    "name": "Botswana",
+    "code": "BW",
+    "dial_code": "+267",
+    "flags": {
+      "local": "flags/bw.svg",
+      "remote": "https://flagcdn.com/bw.svg"
+    },
+    "currency_details": {
+      "name": "Botswana pula",
+      "code": "BWP",
+      "symbol": "P"
+    }
+  },
+  {
+    "name": "Isle of Man",
+    "code": "IM",
+    "dial_code": "+44",
+    "flags": {
+      "local": "flags/im.svg",
+      "remote": "https://flagcdn.com/im.svg"
+    },
+    "currency_details": {
+      "name": "British pound",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "El Salvador",
+    "code": "SV",
+    "dial_code": "+503",
+    "flags": {
+      "local": "flags/sv.svg",
+      "remote": "https://flagcdn.com/sv.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Uganda",
+    "code": "UG",
+    "dial_code": "+256",
+    "flags": {
+      "local": "flags/ug.svg",
+      "remote": "https://flagcdn.com/ug.svg"
+    },
+    "currency_details": {
+      "name": "Ugandan shilling",
+      "code": "UGX",
+      "symbol": "Sh"
+    }
+  },
+  {
+    "name": "Andorra",
+    "code": "AD",
+    "dial_code": "+376",
+    "flags": {
+      "local": "flags/ad.svg",
+      "remote": "https://flagcdn.com/ad.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "code": "TC",
+    "dial_code": "+1649",
+    "flags": {
+      "local": "flags/tc.svg",
+      "remote": "https://flagcdn.com/tc.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Chad",
+    "code": "TD",
+    "dial_code": "+235",
+    "flags": {
+      "local": "flags/td.svg",
+      "remote": "https://flagcdn.com/td.svg"
+    },
+    "currency_details": {
+      "name": "Central African CFA franc",
+      "code": "XAF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "dial_code": "+358",
+    "flags": {
+      "local": "flags/fi.svg",
+      "remote": "https://flagcdn.com/fi.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Russia",
+    "code": "RU",
+    "dial_code": "+73",
+    "flags": {
+      "local": "flags/ru.svg",
+      "remote": "https://flagcdn.com/ru.svg"
+    },
+    "currency_details": {
+      "name": "Russian ruble",
+      "code": "RUB",
+      "symbol": "₽"
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "dial_code": "+76",
+    "flags": {
+      "local": "flags/kz.svg",
+      "remote": "https://flagcdn.com/kz.svg"
+    },
+    "currency_details": {
+      "name": "Kazakhstani tenge",
+      "code": "KZT",
+      "symbol": "₸"
+    }
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "code": "SJ",
+    "dial_code": "+4779",
+    "flags": {
+      "local": "flags/sj.svg",
+      "remote": "https://flagcdn.com/sj.svg"
+    },
+    "currency_details": {
+      "name": "krone",
+      "code": "NOK",
+      "symbol": "kr"
+    }
+  },
+  {
+    "name": "Venezuela",
+    "code": "VE",
+    "dial_code": "+58",
+    "flags": {
+      "local": "flags/ve.svg",
+      "remote": "https://flagcdn.com/ve.svg"
+    },
+    "currency_details": {
+      "name": "Venezuelan bolívar soberano",
+      "code": "VES",
+      "symbol": "Bs.S."
+    }
+  },
+  {
+    "name": "Monaco",
+    "code": "MC",
+    "dial_code": "+377",
+    "flags": {
+      "local": "flags/mc.svg",
+      "remote": "https://flagcdn.com/mc.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Senegal",
+    "code": "SN",
+    "dial_code": "+221",
+    "flags": {
+      "local": "flags/sn.svg",
+      "remote": "https://flagcdn.com/sn.svg"
+    },
+    "currency_details": {
+      "name": "West African CFA franc",
+      "code": "XOF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Nepal",
+    "code": "NP",
+    "dial_code": "+977",
+    "flags": {
+      "local": "flags/np.svg",
+      "remote": "https://flagcdn.com/np.svg"
+    },
+    "currency_details": {
+      "name": "Nepalese rupee",
+      "code": "NPR",
+      "symbol": "₨"
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "dial_code": "+971",
+    "flags": {
+      "local": "flags/ae.svg",
+      "remote": "https://flagcdn.com/ae.svg"
+    },
+    "currency_details": {
+      "name": "United Arab Emirates dirham",
+      "code": "AED",
+      "symbol": "د.إ"
+    }
+  },
+  {
+    "name": "Taiwan",
+    "code": "TW",
+    "dial_code": "+886",
+    "flags": {
+      "local": "flags/tw.svg",
+      "remote": "https://flagcdn.com/tw.svg"
+    },
+    "currency_details": {
+      "name": "New Taiwan dollar",
+      "code": "TWD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "New Caledonia",
+    "code": "NC",
+    "dial_code": "+687",
+    "flags": {
+      "local": "flags/nc.svg",
+      "remote": "https://flagcdn.com/nc.svg"
+    },
+    "currency_details": {
+      "name": "CFP franc",
+      "code": "XPF",
+      "symbol": "₣"
+    }
+  },
+  {
+    "name": "Bolivia",
+    "code": "BO",
+    "dial_code": "+591",
+    "flags": {
+      "local": "flags/bo.svg",
+      "remote": "https://flagcdn.com/bo.svg"
+    },
+    "currency_details": {
+      "name": "Bolivian boliviano",
+      "code": "BOB",
+      "symbol": "Bs."
+    }
+  },
+  {
+    "name": "Chile",
+    "code": "CL",
+    "dial_code": "+56",
+    "flags": {
+      "local": "flags/cl.svg",
+      "remote": "https://flagcdn.com/cl.svg"
+    },
+    "currency_details": {
+      "name": "Chilean peso",
+      "code": "CLP",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Ivory Coast",
+    "code": "CI",
+    "dial_code": "+225",
+    "flags": {
+      "local": "flags/ci.svg",
+      "remote": "https://flagcdn.com/ci.svg"
+    },
+    "currency_details": {
+      "name": "West African CFA franc",
+      "code": "XOF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Libya",
+    "code": "LY",
+    "dial_code": "+218",
+    "flags": {
+      "local": "flags/ly.svg",
+      "remote": "https://flagcdn.com/ly.svg"
+    },
+    "currency_details": {
+      "name": "Libyan dinar",
+      "code": "LYD",
+      "symbol": "ل.د"
+    }
+  },
+  {
+    "name": "Peru",
+    "code": "PE",
+    "dial_code": "+51",
+    "flags": {
+      "local": "flags/pe.svg",
+      "remote": "https://flagcdn.com/pe.svg"
+    },
+    "currency_details": {
+      "name": "Peruvian sol",
+      "code": "PEN",
+      "symbol": "S/ "
+    }
+  },
+  {
+    "name": "Canada",
+    "code": "CA",
+    "dial_code": "+1",
+    "flags": {
+      "local": "flags/ca.svg",
+      "remote": "https://flagcdn.com/ca.svg"
+    },
+    "currency_details": {
+      "name": "Canadian dollar",
+      "code": "CAD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "dial_code": "+33",
+    "flags": {
+      "local": "flags/fr.svg",
+      "remote": "https://flagcdn.com/fr.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Djibouti",
+    "code": "DJ",
+    "dial_code": "+253",
+    "flags": {
+      "local": "flags/dj.svg",
+      "remote": "https://flagcdn.com/dj.svg"
+    },
+    "currency_details": {
+      "name": "Djiboutian franc",
+      "code": "DJF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Burundi",
+    "code": "BI",
+    "dial_code": "+257",
+    "flags": {
+      "local": "flags/bi.svg",
+      "remote": "https://flagcdn.com/bi.svg"
+    },
+    "currency_details": {
+      "name": "Burundian franc",
+      "code": "BIF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Kosovo",
+    "code": "XK",
+    "dial_code": "+383",
+    "flags": {
+      "local": "flags/xk.svg",
+      "remote": "https://flagcdn.com/xk.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Denmark",
+    "code": "DK",
+    "dial_code": "+45",
+    "flags": {
+      "local": "flags/dk.svg",
+      "remote": "https://flagcdn.com/dk.svg"
+    },
+    "currency_details": {
+      "name": "Danish krone",
+      "code": "DKK",
+      "symbol": "kr"
+    }
+  },
+  {
+    "name": "Greece",
+    "code": "GR",
+    "dial_code": "+30",
+    "flags": {
+      "local": "flags/gr.svg",
+      "remote": "https://flagcdn.com/gr.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Czechia",
+    "code": "CZ",
+    "dial_code": "+420",
+    "flags": {
+      "local": "flags/cz.svg",
+      "remote": "https://flagcdn.com/cz.svg"
+    },
+    "currency_details": {
+      "name": "Czech koruna",
+      "code": "CZK",
+      "symbol": "Kč"
+    }
+  },
+  {
+    "name": "Eritrea",
+    "code": "ER",
+    "dial_code": "+291",
+    "flags": {
+      "local": "flags/er.svg",
+      "remote": "https://flagcdn.com/er.svg"
+    },
+    "currency_details": {
+      "name": "Eritrean nakfa",
+      "code": "ERN",
+      "symbol": "Nfk"
+    }
+  },
+  {
+    "name": "Namibia",
+    "code": "NA",
+    "dial_code": "+264",
+    "flags": {
+      "local": "flags/na.svg",
+      "remote": "https://flagcdn.com/na.svg"
+    },
+    "currency_details": {
+      "name": "Namibian dollar",
+      "code": "NAD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "British Virgin Islands",
+    "code": "VG",
+    "dial_code": "+1284",
+    "flags": {
+      "local": "flags/vg.svg",
+      "remote": "https://flagcdn.com/vg.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Iran",
+    "code": "IR",
+    "dial_code": "+98",
+    "flags": {
+      "local": "flags/ir.svg",
+      "remote": "https://flagcdn.com/ir.svg"
+    },
+    "currency_details": {
+      "name": "Iranian rial",
+      "code": "IRR",
+      "symbol": "﷼"
+    }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "GQ",
+    "dial_code": "+240",
+    "flags": {
+      "local": "flags/gq.svg",
+      "remote": "https://flagcdn.com/gq.svg"
+    },
+    "currency_details": {
+      "name": "Central African CFA franc",
+      "code": "XAF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Mauritania",
+    "code": "MR",
+    "dial_code": "+222",
+    "flags": {
+      "local": "flags/mr.svg",
+      "remote": "https://flagcdn.com/mr.svg"
+    },
+    "currency_details": {
+      "name": "Mauritanian ouguiya",
+      "code": "MRU",
+      "symbol": "UM"
+    }
+  },
+  {
+    "name": "Bahrain",
+    "code": "BH",
+    "dial_code": "+973",
+    "flags": {
+      "local": "flags/bh.svg",
+      "remote": "https://flagcdn.com/bh.svg"
+    },
+    "currency_details": {
+      "name": "Bahraini dinar",
+      "code": "BHD",
+      "symbol": ".د.ب"
+    }
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "code": "CC",
+    "dial_code": "+61",
+    "flags": {
+      "local": "flags/cc.svg",
+      "remote": "https://flagcdn.com/cc.svg"
+    },
+    "currency_details": {
+      "name": "Australian dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "code": "ET",
+    "dial_code": "+251",
+    "flags": {
+      "local": "flags/et.svg",
+      "remote": "https://flagcdn.com/et.svg"
+    },
+    "currency_details": {
+      "name": "Ethiopian birr",
+      "code": "ETB",
+      "symbol": "Br"
+    }
+  },
+  {
+    "name": "Zambia",
+    "code": "ZM",
+    "dial_code": "+260",
+    "flags": {
+      "local": "flags/zm.svg",
+      "remote": "https://flagcdn.com/zm.svg"
+    },
+    "currency_details": {
+      "name": "Zambian kwacha",
+      "code": "ZMW",
+      "symbol": "ZK"
+    }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "BA",
+    "dial_code": "+387",
+    "flags": {
+      "local": "flags/ba.svg",
+      "remote": "https://flagcdn.com/ba.svg"
+    },
+    "currency_details": {
+      "name": "Bosnia and Herzegovina convertible mark",
+      "code": "BAM",
+      "symbol": "KM"
+    }
+  },
+  {
+    "name": "Falkland Islands",
+    "code": "FK",
+    "dial_code": "+500",
+    "flags": {
+      "local": "flags/fk.svg",
+      "remote": "https://flagcdn.com/fk.svg"
+    },
+    "currency_details": {
+      "name": "Falkland Islands pound",
+      "code": "FKP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Grenada",
+    "code": "GD",
+    "dial_code": "+1473",
+    "flags": {
+      "local": "flags/gd.svg",
+      "remote": "https://flagcdn.com/gd.svg"
+    },
+    "currency_details": {
+      "name": "Eastern Caribbean dollar",
+      "code": "XCD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Thailand",
+    "code": "TH",
+    "dial_code": "+66",
+    "flags": {
+      "local": "flags/th.svg",
+      "remote": "https://flagcdn.com/th.svg"
+    },
+    "currency_details": {
+      "name": "Thai baht",
+      "code": "THB",
+      "symbol": "฿"
+    }
+  },
+  {
+    "name": "Romania",
+    "code": "RO",
+    "dial_code": "+40",
+    "flags": {
+      "local": "flags/ro.svg",
+      "remote": "https://flagcdn.com/ro.svg"
+    },
+    "currency_details": {
+      "name": "Romanian leu",
+      "code": "RON",
+      "symbol": "lei"
+    }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "dial_code": "+1784",
+    "flags": {
+      "local": "flags/vc.svg",
+      "remote": "https://flagcdn.com/vc.svg"
+    },
+    "currency_details": {
+      "name": "Eastern Caribbean dollar",
+      "code": "XCD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Liberia",
+    "code": "LR",
+    "dial_code": "+231",
+    "flags": {
+      "local": "flags/lr.svg",
+      "remote": "https://flagcdn.com/lr.svg"
+    },
+    "currency_details": {
+      "name": "Liberian dollar",
+      "code": "LRD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "United States",
+    "code": "US",
+    "dial_code": "+1201",
+    "flags": {
+      "local": "flags/us.svg",
+      "remote": "https://flagcdn.com/us.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "South Sudan",
+    "code": "SS",
+    "dial_code": "+211",
+    "flags": {
+      "local": "flags/ss.svg",
+      "remote": "https://flagcdn.com/ss.svg"
+    },
+    "currency_details": {
+      "name": "South Sudanese pound",
+      "code": "SSP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Bouvet Island",
+    "code": "BV",
+    "dial_code": "+47",
+    "flags": {
+      "local": "flags/bv.svg",
+      "remote": "https://flagcdn.com/bv.svg"
+    },
+    "currency_details": null
+  },
+  {
+    "name": "Armenia",
+    "code": "AM",
+    "dial_code": "+374",
+    "flags": {
+      "local": "flags/am.svg",
+      "remote": "https://flagcdn.com/am.svg"
+    },
+    "currency_details": {
+      "name": "Armenian dram",
+      "code": "AMD",
+      "symbol": "֏"
+    }
+  },
+  {
+    "name": "Japan",
+    "code": "JP",
+    "dial_code": "+81",
+    "flags": {
+      "local": "flags/jp.svg",
+      "remote": "https://flagcdn.com/jp.svg"
+    },
+    "currency_details": {
+      "name": "Japanese yen",
+      "code": "JPY",
+      "symbol": "¥"
+    }
+  },
+  {
+    "name": "Pakistan",
+    "code": "PK",
+    "dial_code": "+92",
+    "flags": {
+      "local": "flags/pk.svg",
+      "remote": "https://flagcdn.com/pk.svg"
+    },
+    "currency_details": {
+      "name": "Pakistani rupee",
+      "code": "PKR",
+      "symbol": "₨"
+    }
+  },
+  {
+    "name": "Eswatini",
+    "code": "SZ",
+    "dial_code": "+268",
+    "flags": {
+      "local": "flags/sz.svg",
+      "remote": "https://flagcdn.com/sz.svg"
+    },
+    "currency_details": {
+      "name": "Swazi lilangeni",
+      "code": "SZL",
+      "symbol": "L"
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "LI",
+    "dial_code": "+423",
+    "flags": {
+      "local": "flags/li.svg",
+      "remote": "https://flagcdn.com/li.svg"
+    },
+    "currency_details": {
+      "name": "Swiss franc",
+      "code": "CHF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Israel",
+    "code": "IL",
+    "dial_code": "+972",
+    "flags": {
+      "local": "flags/il.svg",
+      "remote": "https://flagcdn.com/il.svg"
+    },
+    "currency_details": {
+      "name": "Israeli new shekel",
+      "code": "ILS",
+      "symbol": "₪"
+    }
+  },
+  {
+    "name": "American Samoa",
+    "code": "AS",
+    "dial_code": "+1684",
+    "flags": {
+      "local": "flags/as.svg",
+      "remote": "https://flagcdn.com/as.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "LK",
+    "dial_code": "+94",
+    "flags": {
+      "local": "flags/lk.svg",
+      "remote": "https://flagcdn.com/lk.svg"
+    },
+    "currency_details": {
+      "name": "Sri Lankan rupee",
+      "code": "LKR",
+      "symbol": "Rs  රු"
+    }
+  },
+  {
+    "name": "South Georgia",
+    "code": "GS",
+    "dial_code": "+500",
+    "flags": {
+      "local": "flags/gs.svg",
+      "remote": "https://flagcdn.com/gs.svg"
+    },
+    "currency_details": {
+      "name": "British pound",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Albania",
+    "code": "AL",
+    "dial_code": "+355",
+    "flags": {
+      "local": "flags/al.svg",
+      "remote": "https://flagcdn.com/al.svg"
+    },
+    "currency_details": {
+      "name": "Albanian lek",
+      "code": "ALL",
+      "symbol": "L"
+    }
+  },
+  {
+    "name": "Algeria",
+    "code": "DZ",
+    "dial_code": "+213",
+    "flags": {
+      "local": "flags/dz.svg",
+      "remote": "https://flagcdn.com/dz.svg"
+    },
+    "currency_details": {
+      "name": "Algerian dinar",
+      "code": "DZD",
+      "symbol": "د.ج"
+    }
+  },
+  {
+    "name": "Ukraine",
+    "code": "UA",
+    "dial_code": "+380",
+    "flags": {
+      "local": "flags/ua.svg",
+      "remote": "https://flagcdn.com/ua.svg"
+    },
+    "currency_details": {
+      "name": "Ukrainian hryvnia",
+      "code": "UAH",
+      "symbol": "₴"
+    }
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "SH",
+    "dial_code": "+290",
+    "flags": {
+      "local": "flags/sh.svg",
+      "remote": "https://flagcdn.com/sh.svg"
+    },
+    "currency_details": {
+      "name": "Pound sterling",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "code": "HM",
+    "dial_code": "",
+    "flags": {
+      "local": "flags/hm.svg",
+      "remote": "https://flagcdn.com/hm.svg"
+    },
+    "currency_details": null
+  },
+  {
+    "name": "San Marino",
+    "code": "SM",
+    "dial_code": "+378",
+    "flags": {
+      "local": "flags/sm.svg",
+      "remote": "https://flagcdn.com/sm.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Cuba",
+    "code": "CU",
+    "dial_code": "+53",
+    "flags": {
+      "local": "flags/cu.svg",
+      "remote": "https://flagcdn.com/cu.svg"
+    },
+    "currency_details": {
+      "name": "Cuban convertible peso",
+      "code": "CUC",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Nauru",
+    "code": "NR",
+    "dial_code": "+674",
+    "flags": {
+      "local": "flags/nr.svg",
+      "remote": "https://flagcdn.com/nr.svg"
+    },
+    "currency_details": {
+      "name": "Australian dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Spain",
+    "code": "ES",
+    "dial_code": "+34",
+    "flags": {
+      "local": "flags/es.svg",
+      "remote": "https://flagcdn.com/es.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Kuwait",
+    "code": "KW",
+    "dial_code": "+965",
+    "flags": {
+      "local": "flags/kw.svg",
+      "remote": "https://flagcdn.com/kw.svg"
+    },
+    "currency_details": {
+      "name": "Kuwaiti dinar",
+      "code": "KWD",
+      "symbol": "د.ك"
+    }
+  },
+  {
+    "name": "Montserrat",
+    "code": "MS",
+    "dial_code": "+1664",
+    "flags": {
+      "local": "flags/ms.svg",
+      "remote": "https://flagcdn.com/ms.svg"
+    },
+    "currency_details": {
+      "name": "Eastern Caribbean dollar",
+      "code": "XCD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Mauritius",
+    "code": "MU",
+    "dial_code": "+230",
+    "flags": {
+      "local": "flags/mu.svg",
+      "remote": "https://flagcdn.com/mu.svg"
+    },
+    "currency_details": {
+      "name": "Mauritian rupee",
+      "code": "MUR",
+      "symbol": "₨"
+    }
+  },
+  {
+    "name": "Sweden",
+    "code": "SE",
+    "dial_code": "+46",
+    "flags": {
+      "local": "flags/se.svg",
+      "remote": "https://flagcdn.com/se.svg"
+    },
+    "currency_details": {
+      "name": "Swedish krona",
+      "code": "SEK",
+      "symbol": "kr"
+    }
+  },
+  {
+    "name": "Australia",
+    "code": "AU",
+    "dial_code": "+61",
+    "flags": {
+      "local": "flags/au.svg",
+      "remote": "https://flagcdn.com/au.svg"
+    },
+    "currency_details": {
+      "name": "Australian dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Cameroon",
+    "code": "CM",
+    "dial_code": "+237",
+    "flags": {
+      "local": "flags/cm.svg",
+      "remote": "https://flagcdn.com/cm.svg"
+    },
+    "currency_details": {
+      "name": "Central African CFA franc",
+      "code": "XAF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Ecuador",
+    "code": "EC",
+    "dial_code": "+593",
+    "flags": {
+      "local": "flags/ec.svg",
+      "remote": "https://flagcdn.com/ec.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Qatar",
+    "code": "QA",
+    "dial_code": "+974",
+    "flags": {
+      "local": "flags/qa.svg",
+      "remote": "https://flagcdn.com/qa.svg"
+    },
+    "currency_details": {
+      "name": "Qatari riyal",
+      "code": "QAR",
+      "symbol": "ر.ق"
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "MH",
+    "dial_code": "+692",
+    "flags": {
+      "local": "flags/mh.svg",
+      "remote": "https://flagcdn.com/mh.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Poland",
+    "code": "PL",
+    "dial_code": "+48",
+    "flags": {
+      "local": "flags/pl.svg",
+      "remote": "https://flagcdn.com/pl.svg"
+    },
+    "currency_details": {
+      "name": "Polish złoty",
+      "code": "PLN",
+      "symbol": "zł"
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "code": "KY",
+    "dial_code": "+1345",
+    "flags": {
+      "local": "flags/ky.svg",
+      "remote": "https://flagcdn.com/ky.svg"
+    },
+    "currency_details": {
+      "name": "Cayman Islands dollar",
+      "code": "KYD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA",
+    "dial_code": "+27",
+    "flags": {
+      "local": "flags/za.svg",
+      "remote": "https://flagcdn.com/za.svg"
+    },
+    "currency_details": {
+      "name": "South African rand",
+      "code": "ZAR",
+      "symbol": "R"
+    }
+  },
+  {
+    "name": "Wallis and Futuna",
+    "code": "WF",
+    "dial_code": "+681",
+    "flags": {
+      "local": "flags/wf.svg",
+      "remote": "https://flagcdn.com/wf.svg"
+    },
+    "currency_details": {
+      "name": "CFP franc",
+      "code": "XPF",
+      "symbol": "₣"
+    }
+  },
+  {
+    "name": "Samoa",
+    "code": "WS",
+    "dial_code": "+685",
+    "flags": {
+      "local": "flags/ws.svg",
+      "remote": "https://flagcdn.com/ws.svg"
+    },
+    "currency_details": {
+      "name": "Samoan tālā",
+      "code": "WST",
+      "symbol": "T"
+    }
+  },
+  {
+    "name": "Netherlands",
+    "code": "NL",
+    "dial_code": "+31",
+    "flags": {
+      "local": "flags/nl.svg",
+      "remote": "https://flagcdn.com/nl.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Western Sahara",
+    "code": "EH",
+    "dial_code": "+2125288",
+    "flags": {
+      "local": "flags/eh.svg",
+      "remote": "https://flagcdn.com/eh.svg"
+    },
+    "currency_details": {
+      "name": "Algerian dinar",
+      "code": "DZD",
+      "symbol": "دج"
+    }
+  },
+  {
+    "name": "Montenegro",
+    "code": "ME",
+    "dial_code": "+382",
+    "flags": {
+      "local": "flags/me.svg",
+      "remote": "https://flagcdn.com/me.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Bhutan",
+    "code": "BT",
+    "dial_code": "+975",
+    "flags": {
+      "local": "flags/bt.svg",
+      "remote": "https://flagcdn.com/bt.svg"
+    },
+    "currency_details": {
+      "name": "Bhutanese ngultrum",
+      "code": "BTN",
+      "symbol": "Nu."
+    }
+  },
+  {
+    "name": "Malta",
+    "code": "MT",
+    "dial_code": "+356",
+    "flags": {
+      "local": "flags/mt.svg",
+      "remote": "https://flagcdn.com/mt.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "code": "VU",
+    "dial_code": "+678",
+    "flags": {
+      "local": "flags/vu.svg",
+      "remote": "https://flagcdn.com/vu.svg"
+    },
+    "currency_details": {
+      "name": "Vanuatu vatu",
+      "code": "VUV",
+      "symbol": "Vt"
+    }
+  },
+  {
+    "name": "Tanzania",
+    "code": "TZ",
+    "dial_code": "+255",
+    "flags": {
+      "local": "flags/tz.svg",
+      "remote": "https://flagcdn.com/tz.svg"
+    },
+    "currency_details": {
+      "name": "Tanzanian shilling",
+      "code": "TZS",
+      "symbol": "Sh"
+    }
+  },
+  {
+    "name": "New Zealand",
+    "code": "NZ",
+    "dial_code": "+64",
+    "flags": {
+      "local": "flags/nz.svg",
+      "remote": "https://flagcdn.com/nz.svg"
+    },
+    "currency_details": {
+      "name": "New Zealand dollar",
+      "code": "NZD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Palau",
+    "code": "PW",
+    "dial_code": "+680",
+    "flags": {
+      "local": "flags/pw.svg",
+      "remote": "https://flagcdn.com/pw.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Panama",
+    "code": "PA",
+    "dial_code": "+507",
+    "flags": {
+      "local": "flags/pa.svg",
+      "remote": "https://flagcdn.com/pa.svg"
+    },
+    "currency_details": {
+      "name": "Panamanian balboa",
+      "code": "PAB",
+      "symbol": "B/."
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "code": "TV",
+    "dial_code": "+688",
+    "flags": {
+      "local": "flags/tv.svg",
+      "remote": "https://flagcdn.com/tv.svg"
+    },
+    "currency_details": {
+      "name": "Australian dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Fiji",
+    "code": "FJ",
+    "dial_code": "+679",
+    "flags": {
+      "local": "flags/fj.svg",
+      "remote": "https://flagcdn.com/fj.svg"
+    },
+    "currency_details": {
+      "name": "Fijian dollar",
+      "code": "FJD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "code": "NI",
+    "dial_code": "+505",
+    "flags": {
+      "local": "flags/ni.svg",
+      "remote": "https://flagcdn.com/ni.svg"
+    },
+    "currency_details": {
+      "name": "Nicaraguan córdoba",
+      "code": "NIO",
+      "symbol": "C$"
+    }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "dial_code": "+996",
+    "flags": {
+      "local": "flags/kg.svg",
+      "remote": "https://flagcdn.com/kg.svg"
+    },
+    "currency_details": {
+      "name": "Kyrgyzstani som",
+      "code": "KGS",
+      "symbol": "с"
+    }
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "code": "TF",
+    "dial_code": "+262",
+    "flags": {
+      "local": "flags/tf.svg",
+      "remote": "https://flagcdn.com/tf.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Latvia",
+    "code": "LV",
+    "dial_code": "+371",
+    "flags": {
+      "local": "flags/lv.svg",
+      "remote": "https://flagcdn.com/lv.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Georgia",
+    "code": "GE",
+    "dial_code": "+995",
+    "flags": {
+      "local": "flags/ge.svg",
+      "remote": "https://flagcdn.com/ge.svg"
+    },
+    "currency_details": {
+      "name": "lari",
+      "code": "GEL",
+      "symbol": "₾"
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU",
+    "dial_code": "+352",
+    "flags": {
+      "local": "flags/lu.svg",
+      "remote": "https://flagcdn.com/lu.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "dial_code": "+43",
+    "flags": {
+      "local": "flags/at.svg",
+      "remote": "https://flagcdn.com/at.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "North Macedonia",
+    "code": "MK",
+    "dial_code": "+389",
+    "flags": {
+      "local": "flags/mk.svg",
+      "remote": "https://flagcdn.com/mk.svg"
+    },
+    "currency_details": {
+      "name": "denar",
+      "code": "MKD",
+      "symbol": "den"
+    }
+  },
+  {
+    "name": "Saint Barthélemy",
+    "code": "BL",
+    "dial_code": "+590",
+    "flags": {
+      "local": "flags/bl.svg",
+      "remote": "https://flagcdn.com/bl.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Christmas Island",
+    "code": "CX",
+    "dial_code": "+61",
+    "flags": {
+      "local": "flags/cx.svg",
+      "remote": "https://flagcdn.com/cx.svg"
+    },
+    "currency_details": {
+      "name": "Australian dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "SB",
+    "dial_code": "+677",
+    "flags": {
+      "local": "flags/sb.svg",
+      "remote": "https://flagcdn.com/sb.svg"
+    },
+    "currency_details": {
+      "name": "Solomon Islands dollar",
+      "code": "SBD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "AG",
+    "dial_code": "+1268",
+    "flags": {
+      "local": "flags/ag.svg",
+      "remote": "https://flagcdn.com/ag.svg"
+    },
+    "currency_details": {
+      "name": "Eastern Caribbean dollar",
+      "code": "XCD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Iraq",
+    "code": "IQ",
+    "dial_code": "+964",
+    "flags": {
+      "local": "flags/iq.svg",
+      "remote": "https://flagcdn.com/iq.svg"
+    },
+    "currency_details": {
+      "name": "Iraqi dinar",
+      "code": "IQD",
+      "symbol": "ع.د"
+    }
+  },
+  {
+    "name": "Moldova",
+    "code": "MD",
+    "dial_code": "+373",
+    "flags": {
+      "local": "flags/md.svg",
+      "remote": "https://flagcdn.com/md.svg"
+    },
+    "currency_details": {
+      "name": "Moldovan leu",
+      "code": "MDL",
+      "symbol": "L"
+    }
+  },
+  {
+    "name": "Norfolk Island",
+    "code": "NF",
+    "dial_code": "+672",
+    "flags": {
+      "local": "flags/nf.svg",
+      "remote": "https://flagcdn.com/nf.svg"
+    },
+    "currency_details": {
+      "name": "Australian dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Republic of the Congo",
+    "code": "CG",
+    "dial_code": "+242",
+    "flags": {
+      "local": "flags/cg.svg",
+      "remote": "https://flagcdn.com/cg.svg"
+    },
+    "currency_details": {
+      "name": "Central African CFA franc",
+      "code": "XAF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Niue",
+    "code": "NU",
+    "dial_code": "+683",
+    "flags": {
+      "local": "flags/nu.svg",
+      "remote": "https://flagcdn.com/nu.svg"
+    },
+    "currency_details": {
+      "name": "New Zealand dollar",
+      "code": "NZD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Lithuania",
+    "code": "LT",
+    "dial_code": "+370",
+    "flags": {
+      "local": "flags/lt.svg",
+      "remote": "https://flagcdn.com/lt.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Niger",
+    "code": "NE",
+    "dial_code": "+227",
+    "flags": {
+      "local": "flags/ne.svg",
+      "remote": "https://flagcdn.com/ne.svg"
+    },
+    "currency_details": {
+      "name": "West African CFA franc",
+      "code": "XOF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Guyana",
+    "code": "GY",
+    "dial_code": "+592",
+    "flags": {
+      "local": "flags/gy.svg",
+      "remote": "https://flagcdn.com/gy.svg"
+    },
+    "currency_details": {
+      "name": "Guyanese dollar",
+      "code": "GYD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Bermuda",
+    "code": "BM",
+    "dial_code": "+1441",
+    "flags": {
+      "local": "flags/bm.svg",
+      "remote": "https://flagcdn.com/bm.svg"
+    },
+    "currency_details": {
+      "name": "Bermudian dollar",
+      "code": "BMD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Gabon",
+    "code": "GA",
+    "dial_code": "+241",
+    "flags": {
+      "local": "flags/ga.svg",
+      "remote": "https://flagcdn.com/ga.svg"
+    },
+    "currency_details": {
+      "name": "Central African CFA franc",
+      "code": "XAF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Cook Islands",
+    "code": "CK",
+    "dial_code": "+682",
+    "flags": {
+      "local": "flags/ck.svg",
+      "remote": "https://flagcdn.com/ck.svg"
+    },
+    "currency_details": {
+      "name": "Cook Islands dollar",
+      "code": "CKD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Angola",
+    "code": "AO",
+    "dial_code": "+244",
+    "flags": {
+      "local": "flags/ao.svg",
+      "remote": "https://flagcdn.com/ao.svg"
+    },
+    "currency_details": {
+      "name": "Angolan kwanza",
+      "code": "AOA",
+      "symbol": "Kz"
+    }
+  },
+  {
+    "name": "Norway",
+    "code": "NO",
+    "dial_code": "+47",
+    "flags": {
+      "local": "flags/no.svg",
+      "remote": "https://flagcdn.com/no.svg"
+    },
+    "currency_details": {
+      "name": "Norwegian krone",
+      "code": "NOK",
+      "symbol": "kr"
+    }
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "GP",
+    "dial_code": "+590",
+    "flags": {
+      "local": "flags/gp.svg",
+      "remote": "https://flagcdn.com/gp.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Maldives",
+    "code": "MV",
+    "dial_code": "+960",
+    "flags": {
+      "local": "flags/mv.svg",
+      "remote": "https://flagcdn.com/mv.svg"
+    },
+    "currency_details": {
+      "name": "Maldivian rufiyaa",
+      "code": "MVR",
+      "symbol": ".ރ"
+    }
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "dial_code": "+32",
+    "flags": {
+      "local": "flags/be.svg",
+      "remote": "https://flagcdn.com/be.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Croatia",
+    "code": "HR",
+    "dial_code": "+385",
+    "flags": {
+      "local": "flags/hr.svg",
+      "remote": "https://flagcdn.com/hr.svg"
+    },
+    "currency_details": {
+      "name": "euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "name": "Belize",
+    "code": "BZ",
+    "dial_code": "+501",
+    "flags": {
+      "local": "flags/bz.svg",
+      "remote": "https://flagcdn.com/bz.svg"
+    },
+    "currency_details": {
+      "name": "Belize dollar",
+      "code": "BZD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "KN",
+    "dial_code": "+1869",
+    "flags": {
+      "local": "flags/kn.svg",
+      "remote": "https://flagcdn.com/kn.svg"
+    },
+    "currency_details": {
+      "name": "Eastern Caribbean dollar",
+      "code": "XCD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Singapore",
+    "code": "SG",
+    "dial_code": "+65",
+    "flags": {
+      "local": "flags/sg.svg",
+      "remote": "https://flagcdn.com/sg.svg"
+    },
+    "currency_details": {
+      "name": "Singapore dollar",
+      "code": "SGD",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Lesotho",
+    "code": "LS",
+    "dial_code": "+266",
+    "flags": {
+      "local": "flags/ls.svg",
+      "remote": "https://flagcdn.com/ls.svg"
+    },
+    "currency_details": {
+      "name": "Lesotho loti",
+      "code": "LSL",
+      "symbol": "L"
+    }
+  },
+  {
+    "name": "Uruguay",
+    "code": "UY",
+    "dial_code": "+598",
+    "flags": {
+      "local": "flags/uy.svg",
+      "remote": "https://flagcdn.com/uy.svg"
+    },
+    "currency_details": {
+      "name": "Uruguayan peso",
+      "code": "UYU",
+      "symbol": "$"
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "BF",
+    "dial_code": "+226",
+    "flags": {
+      "local": "flags/bf.svg",
+      "remote": "https://flagcdn.com/bf.svg"
+    },
+    "currency_details": {
+      "name": "West African CFA franc",
+      "code": "XOF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "dial_code": "+91",
+    "flags": {
+      "local": "flags/in.svg",
+      "remote": "https://flagcdn.com/in.svg"
+    },
+    "currency_details": {
+      "name": "Indian rupee",
+      "code": "INR",
+      "symbol": "₹"
+    }
+  },
+  {
+    "name": "Philippines",
+    "code": "PH",
+    "dial_code": "+63",
+    "flags": {
+      "local": "flags/ph.svg",
+      "remote": "https://flagcdn.com/ph.svg"
+    },
+    "currency_details": {
+      "name": "Philippine peso",
+      "code": "PHP",
+      "symbol": "₱"
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "code": "CF",
+    "dial_code": "+236",
+    "flags": {
+      "local": "flags/cf.svg",
+      "remote": "https://flagcdn.com/cf.svg"
+    },
+    "currency_details": {
+      "name": "Central African CFA franc",
+      "code": "XAF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Sudan",
+    "code": "SD",
+    "dial_code": "+249",
+    "flags": {
+      "local": "flags/sd.svg",
+      "remote": "https://flagcdn.com/sd.svg"
+    },
+    "currency_details": {
+      "name": "Sudanese pound",
+      "code": "SDG",
+      "symbol": "ج.س"
+    }
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "GW",
+    "dial_code": "+245",
+    "flags": {
+      "local": "flags/gw.svg",
+      "remote": "https://flagcdn.com/gw.svg"
+    },
+    "currency_details": {
+      "name": "West African CFA franc",
+      "code": "XOF",
+      "symbol": "Fr"
+    }
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "PG",
+    "dial_code": "+675",
+    "flags": {
+      "local": "flags/pg.svg",
+      "remote": "https://flagcdn.com/pg.svg"
+    },
+    "currency_details": {
+      "name": "Papua New Guinean kina",
+      "code": "PGK",
+      "symbol": "K"
+    }
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "code": "UM",
+    "dial_code": "+268",
+    "flags": {
+      "local": "flags/um.svg",
+      "remote": "https://flagcdn.com/um.svg"
+    },
+    "currency_details": {
+      "name": "United States dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  }
+]
