@@ -9,7 +9,7 @@ This guide explains how to use the Country Code Dataset in Flutter applications.
 Download:
 
 - countries.json
-- flags folder (optional)
+- flags folder
 
 from this repository.
 
@@ -17,7 +17,7 @@ from this repository.
 
 # Step 2 — Add Assets
 
-Create:
+Create folders inside your Flutter project:
 
 ```txt
 assets/data/
@@ -29,15 +29,26 @@ Place:
 countries.json
 ```
 
-inside it.
+inside:
 
-If using local SVG flags:
+```txt
+assets/data/
+```
+
+Place SVG flags inside:
 
 ```txt
 assets/data/flags/
 ```
 
-Copy SVG files into flags folder.
+Final structure:
+
+```txt
+assets/
+ └── data/
+      ├── countries.json
+      └── flags/
+```
 
 ---
 
@@ -52,8 +63,6 @@ flutter:
 ---
 
 # Step 4 — Install Dependencies
-
-If using SVG flags:
 
 ```yaml
 dependencies:
@@ -88,6 +97,8 @@ Future<List<dynamic>> loadCountries() async {
 # Step 6 — Display Countries
 
 ```dart
+import 'package:flutter_svg/flutter_svg.dart';
+
 FutureBuilder(
   future: loadCountries(),
   builder: (context, snapshot) {
@@ -103,8 +114,8 @@ FutureBuilder(
         final country = countries[index];
 
         return ListTile(
-          leading: Image.network(
-            country['flags']['remote'],
+          leading: SvgPicture.asset(
+            'assets/data/${country['flags']['local']}',
             width: 32,
           ),
           title: Text(country['name']),
@@ -122,12 +133,17 @@ FutureBuilder(
 
 ```json
 {
-  "name": "India",
-  "code": "IN",
-  "dial_code": "+91",
+  "name": "Anguilla",
+  "code": "AI",
+  "dial_code": "+1264",
   "flags": {
-    "local": "flags/in.svg",
-    "remote": "https://flagcdn.com/in.svg"
+    "local": "flags/ai.svg",
+    "remote": "https://flagcdn.com/ai.svg"
+  },
+  "currency_details": {
+    "name": "Eastern Caribbean dollar",
+    "code": "XCD",
+    "symbol": "$"
   }
 }
 ```
