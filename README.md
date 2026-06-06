@@ -1,34 +1,64 @@
 # Country Code Dataset
 
-Open-source country dataset containing:
+A comprehensive open-source dataset providing country metadata for modern applications.
 
-- Country Name
-- ISO Country Code
-- Dial Code
-- Local SVG Flag
-- Remote SVG Flag URL
-- Currency Information
+The dataset includes:
 
-This dataset is designed for:
+* Country Name
+* ISO 3166-1 Alpha-2 Country Code
+* International Dial Code
+* Local SVG Flag Asset Path
+* Remote SVG Flag URL
+* Currency Information
 
-- Flutter
-- Android
-- React Native
-- iOS
-- Web
-- Backend Applications
+Designed for seamless integration across:
+
+* Flutter
+* Android
+* React Native
+* iOS
+* Web
+* Backend Services
+
+---
+
+# Overview
+
+Country-related data is commonly required in applications such as authentication flows, onboarding forms, country pickers, phone number inputs, payment systems, fintech products, travel applications, and international e-commerce platforms.
+
+This project provides a clean, structured, and reusable JSON dataset that can be integrated into any application with minimal effort.
+
+The dataset supports both offline and online flag rendering through local SVG assets and remote CDN-hosted SVG URLs.
 
 ---
 
 # Features
 
-- JSON based dataset
-- Local SVG flag support
-- Remote CDN flag support
-- Cross-platform friendly
-- Lightweight structure
-- Easy integration
-- Public open-source usage
+* Comprehensive country metadata
+* ISO country code support
+* International dial code support
+* Currency information included
+* Local SVG flag assets
+* Remote SVG flag URLs
+* Cross-platform compatibility
+* Offline and online flag rendering support
+* Lightweight JSON structure
+* Easy integration
+* Open-source and community-driven
+
+---
+
+# Project Goals
+
+This repository aims to provide a reliable and reusable source of country metadata that developers can integrate into applications without maintaining country, dialing code, currency, and flag information manually.
+
+The project focuses on:
+
+* Consistent country metadata
+* Easy cross-platform integration
+* Offline and online flag support
+* Developer-friendly documentation
+* Open-source collaboration
 
 ---
 
@@ -41,20 +71,13 @@ country-code-dataset/
 │   ├── countries.json
 │   └── flags/
 │
-├── examples/
-│   ├── flutter.md
-│   ├── android.md
-│   ├── react-native.md
-│   ├── ios.md
-│   └── web.md
-│
 ├── README.md
 └── LICENSE
 ```
 
 ---
 
-# JSON Structure
+# Dataset Structure
 
 ```json
 {
@@ -75,13 +98,27 @@ country-code-dataset/
 
 ---
 
-# Platform Integration Guides
+# How to Use
 
-- [Flutter Guide](./examples/flutter.md)
-- [Android Guide](./examples/android.md)
-- [React Native Guide](./examples/react-native.md)
-- [iOS Guide](./examples/ios.md)
-- [Web Guide](./examples/web.md)
+1. Download or clone this repository.
+2. Copy or import `data/countries.json` into your application.
+3. Parse the JSON file using your preferred programming language.
+4. Use the country metadata to populate country pickers, phone number inputs, address forms, and currency selectors.
+5. Render flags using:
+
+   * `flags.local` for bundled SVG assets
+   * `flags.remote` for CDN-hosted SVG assets
+6. Bundle the `data/flags/` directory if offline flag support is required.
+
+---
+
+# General Integration Notes
+
+* Compatible with any platform capable of parsing JSON.
+* Local SVG assets provide offline support.
+* Remote SVG URLs help reduce application bundle size.
+* Country metadata can be filtered, transformed, or extended based on application requirements.
+* Suitable for mobile, web, desktop, and backend systems.
 
 ---
 
@@ -89,32 +126,47 @@ country-code-dataset/
 
 This dataset can be used for:
 
-- Country picker
-- Phone number input
-- Authentication flow
-- Currency selection
-- Address forms
-- Region selection
-- FinTech applications
-- Travel applications
+* Country Picker Components
+* Phone Number Input Fields
+* User Registration Forms
+* Authentication & Onboarding Flows
+* Address Management Systems
+* Currency Selection
+* FinTech Applications
+* Banking Applications
+* Travel & Tourism Platforms
+* E-commerce Applications
+* Localization & Internationalization Solutions
 
 ---
 
 # Contributions
 
-Contributions are welcome.
+Contributions are welcome and appreciated.
 
-Feel free to create pull requests for:
+You can help improve this project by:
 
-- Missing countries
-- Incorrect dial codes
-- Missing flags
-- Currency corrections
-- Dataset improvements
+* Adding missing countries or territories
+* Correcting dial codes
+* Updating currency information
+* Fixing flag assets
+* Improving documentation
+* Enhancing dataset quality and consistency
+
+If you find an issue or have a suggestion, please open an issue or submit a pull request.
+
+---
+
+# Author
+
+Created and maintained by **Mohit Siddhapura**.
+
+Android & Flutter Developer passionate about building scalable mobile applications, developer tools, and open-source projects.
 
 ---
 
 # License
 
-Distributed under the MIT License.
-See `LICENSE` for more information.
+This project is licensed under the MIT License.
+
+See the `LICENSE` file for full license details.
